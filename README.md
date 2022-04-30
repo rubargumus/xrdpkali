@@ -13,8 +13,14 @@
     ./run.sh
 
 ## Using
-**1) Open remote connect app**
-**2) Host: localhost:3300**
-**3) Enter u re uname and pass**
-**4) Its ok**
+
+ 
+
+ 1.  **Open remote connect app**
+ 2. **Host: localhost:3300**
+ 3.  **Enter u re uname and pass**
+ 4. **Its ok**
+
+   
+   
 
