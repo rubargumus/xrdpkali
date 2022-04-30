@@ -14,7 +14,10 @@
 
 ## Using
 
- 
+ **if u dont start service use this command**
+     sudo /etc/init.d/xrdp start
+
+
 
  1.  **Open remote connect app**
  2. **Host: localhost:3300**
@@ -23,4 +26,3 @@
 
    
    
-
