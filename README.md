@@ -8,10 +8,10 @@
    **After give perms**
    
    
-    chmod 777 kur.sh
+    chmod 777 load.sh
 **After run script**
 
-    ./run.sh
+    ./load.sh
 
 ## Using
 
