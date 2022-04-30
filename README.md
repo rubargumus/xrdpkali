@@ -1,3 +1,4 @@
+
 ## CONNECT WSL KALİ WİTH XRDP
 
 ## How To İnstall ? 
@@ -15,6 +16,7 @@
 ## Using
 
  **if u dont start service use this command**
+
      sudo /etc/init.d/xrdp start
 
 
